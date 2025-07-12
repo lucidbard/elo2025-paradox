@@ -2,7 +2,8 @@
 
 ## Electronic Literature Organization Annual Conference
 
-[Your Name] | [Date]
+John T. Murray
+July 12, 2025
 
 Note: Welcome everyone. Today I'll be exploring how Josh Drummond's Bird Hat Grift Club exemplifies a new form of critical digital art that uses NFT mechanisms to critique NFT culture itself.
 
