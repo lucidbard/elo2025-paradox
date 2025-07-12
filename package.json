@@ -1,0 +1,12 @@
+{
+  "name": "elo2025-paradox",
+  "version": "1.0.0",
+  "description": "Academic presentation slides using reveal.js",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": ["presentation", "slides", "reveal.js"],
+  "author": "",
+  "license": "MIT"
+}
